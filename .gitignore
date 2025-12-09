@@ -1,0 +1,18 @@
+# Docker
+*.log
+*.tmp
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# IDEs / Editor
+.vscode/
+.idea/
+*.iml
+
+# Python / Node etc. (falls du später Code ergänzt)
+__pycache__/
+node_modules/
+dist/
+build/
